@@ -44,7 +44,7 @@ function getOption() {
 <input type="checkbox" name="coffee" id="nsev"value='7'>7분반<br>
 <br>
 가고 싶은 분반을 고르세요<br>
-<input type="checkbox" name="coffee2" id="wone"value='1'>1분반
+[ ]1분반
 <input type="checkbox" name="coffee2" id="wtwo"value='2'>2분반
 <input type="checkbox" name="coffee2" id="wtri"value='3'>3분반
 <input type="checkbox" name="coffee2" id="wfor"value='4'>4분반
